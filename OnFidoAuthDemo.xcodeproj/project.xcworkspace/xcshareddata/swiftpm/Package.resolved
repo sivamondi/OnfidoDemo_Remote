@@ -1,0 +1,24 @@
+{
+  "originHash" : "efa511405c2a7845e61e380a1981184c63b757b803fd02d75419082c17ee9534",
+  "pins" : [
+    {
+      "identity" : "onfido-auth-sdk-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/onfido/onfido-auth-sdk-ios.git",
+      "state" : {
+        "revision" : "8bd622507938d77b2514465eef25a2f6dc85a91d",
+        "version" : "0.2.6"
+      }
+    },
+    {
+      "identity" : "onfido-ios-sdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/onfido/onfido-ios-sdk.git",
+      "state" : {
+        "revision" : "4b6830f46ef37cc6ee0325dcd389c265b53faea9",
+        "version" : "32.5.1"
+      }
+    }
+  ],
+  "version" : 3
+}
